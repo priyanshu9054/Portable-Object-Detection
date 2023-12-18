@@ -3,7 +3,7 @@ import cv2
 import numpy as np
 import urllib.request
 
-url = 'http://192.168.98.137:81/stream'
+url = 'http://192.xxx.xx.xxx:81/stream'
 
 whT = 320
 confThreshold = 0.5
